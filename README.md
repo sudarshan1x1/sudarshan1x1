@@ -4,9 +4,9 @@ A Graduate Engineer poised to harness technology by applying theoretical knowled
 
 ## 🔭 What I'm Currently Working On
 
+
 ## 🌱 What I'm Currently Learning
 
-## 👯 Looking to Collaborate On
 
 ## 🚀 Skills and Technologies
 
@@ -17,7 +17,7 @@ A Graduate Engineer poised to harness technology by applying theoretical knowled
 - Email: [iamsudarshan.as@gmail.com](mailto:iamsudarshan.as@gmail.com)
 
 ## 😄 Fun Fact about Me
-Not only I can cook code, But can cook good delicious food too!
+Not only I can cook code, But can also cook delicious indian food !
 <!--
 **sudarshan1x1/sudarshan1x1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
