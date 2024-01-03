@@ -1,16 +1,13 @@
 # Hi there 👋 I'm Sudarshan!
 
-A Graduate Engineer poised to harness technology by applying theoretical knowledge towards analyzing data and market trends. A Bachelor's of Engineering in Electronics and Communication from Nitte Meenakshi Institute of Technology, Bangalore.
-
+- UnderGrad Engineer - NISM certified - Systematic Trader - Machine Learning and Artificial Intelligence driven
+  
 ## 🔭 What I'm Currently Working On
-
+- Building A Backtesting Framework tailored to the National Stock Exchange ( NSE) for evaluating trading strategies across different asset classes such as equities, futures and options
 
 ## 🌱 What I'm Currently Learning
-
-
-## 🚀 Skills and Technologies
-
-
+- Advanced Data Science & AI Certification Program offered by LearnBay
+  
 ## 📫 How to Reach Me
 
 - LinkedIn: [Sudarshan AS](https://www.linkedin.com/in/sudarshan1x1/)
