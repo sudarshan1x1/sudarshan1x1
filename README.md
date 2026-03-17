@@ -1,21 +1,22 @@
-# Hi there 👋 I'm Sudarshan!
+# Hi, I'm Sudarshan 👋
 
-- AI Engineer 
-  
-## 🔭 What I'm Currently Working On
-- Building  an end-to-end AI-powered job recommendation platform that parses resumes, models candidate preferences, retrieves and ranks jobs using Hybrid Search, and layers a RAG-based assistant on top for explainability, Job Q&A and Resume Gap Analysis.
+AI Engineer based in Bengaluru, India. I build LLM-based products — 
+chatbots, RAG pipelines, and AI-powered tools.
 
-## 🌱 What I'm Currently Learning
-- AI Agentic Frameworks, Research Implementation
+Previously a founding AI engineer at an early-stage recruitment tech startup, 
+where I built and deployed a candidate assessment chatbot and automated 
+job posting tool on Azure end-to-end.
 
-  
-## 📫 How to Reach Me
+## 🔭 Currently building
+A job recommendation engine using hybrid search (BM25 + vector embeddings) 
+with a RAG layer for personalised explanations — Python, FastAPI, Qdrant, LangChain.
 
-- LinkedIn: [Sudarshan AS](https://www.linkedin.com/in/sudarshan1x1/)
-- Email: [iamsudarshan.as@gmail.com](mailto:iamsudarshan.as@gmail.com)
+## 🛠 Stack
+Python · LangChain · OpenAI API · FastAPI · Azure · MongoDB · RAG pipelines
 
-## 😄 Fun Fact about Me
-Not only I can cook code, But can also cook delicious indian food !
+## 📫 Reach me
+LinkedIn: linkedin.com/in/sudarshan1x1
+Email: iamsudarshan.as@gmail.com
 <!--
 **sudarshan1x1/sudarshan1x1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
