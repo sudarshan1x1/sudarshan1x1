@@ -1,12 +1,13 @@
 # Hi there 👋 I'm Sudarshan!
 
-- UnderGrad Engineer - NISM certified - Systematic Trader - Machine Learning and Artificial Intelligence driven
+- Lead AI Engineer - Ex-Systematic Trader
   
 ## 🔭 What I'm Currently Working On
-- Building A Backtesting Framework tailored to the National Stock Exchange ( NSE) for evaluating trading strategies across different asset classes such as equities, futures and options
+- Building  an end-to-end AI-powered job recommendation platform that parses resumes, models candidate preferences, retrieves and ranks jobs using Hybrid Search, and layers a RAG-based assistant on top for explainability, Job Q&A and Resume Gap Analysis.
 
 ## 🌱 What I'm Currently Learning
-- Advanced Data Science & AI Certification Program offered by LearnBay
+- AI Agentic Frameworks, Research Implementation
+
   
 ## 📫 How to Reach Me
 
