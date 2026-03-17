@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Sudarshan!
 
-- Lead AI Engineer - Ex-Systematic Trader
+- AI Engineer 
   
 ## 🔭 What I'm Currently Working On
 - Building  an end-to-end AI-powered job recommendation platform that parses resumes, models candidate preferences, retrieves and ranks jobs using Hybrid Search, and layers a RAG-based assistant on top for explainability, Job Q&A and Resume Gap Analysis.
