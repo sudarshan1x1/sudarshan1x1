@@ -1,26 +1,33 @@
-# Hi, I'm Sudarshan 👋
+# Hi, I'm Sudarshan
 
-AI Engineer based in Bengaluru, India.
+AI/ML engineer in Bengaluru, India, with 2+ years building LLM applications: RAG systems, evaluation harnesses and AI interview platforms for recruitment. I'm now working one layer down, on how models are served and why they slow down under load.
 
-## 🔭 Currently building
+## Featured work
 
+### [efficient-inference](https://github.com/sudarshan1x1/efficient-inference): LLM serving under concurrent load
+An async load-testing and profiling framework for vLLM, with 8 experiments on one T4 GPU at 1 to 100 concurrent users.
+- Continuous batching on an optimized engine gave **22.6x** the throughput of a naive Hugging Face server at 100 users.
+- A KV cache too small for the load cost only 12% throughput but made first-token latency **6.6x** worse.
+- A simple bandwidth model (4.6 ms + 4.1 ms per GB of weights per token) predicted the speed of the 4-bit quantized model.
+- [Read the report (PDF)](https://github.com/sudarshan1x1/efficient-inference/blob/main/docs/efficient-inference-report.pdf)
 
-## 🛠 Stack
+### AI screening interview platform
+Adaptive technical interviews with RAG-based retrieval, rubric-based scoring and fairness monitoring.
+- Automated grading harness that scores answers against structured rubrics across multiple competencies (1-4 scale).
+- Python, FastAPI, PostgreSQL + pgvector, React, WebSockets, Claude API, Sentence-Transformers.
+- [REPO OR DEMO LINK, or delete this line]
 
-## 📫 Reach me
-LinkedIn: 
-Email:
-<!--
-**sudarshan1x1/sudarshan1x1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently building
+- **Job recommendation system:** two-tower retrieval in PyTorch, pgvector candidate search and LightGBM re-ranking, with a Streamlit demo.
 
-Here are some ideas to get you started:
+## Publication
+- [PAPER TITLE], *[VENUE]*, Springer, [YEAR]. Computer vision. [LINK]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+- **ML and LLMs:** PyTorch, Hugging Face Transformers, vLLM, Sentence-Transformers, QLoRA fine-tuning, RAG, hybrid vector search, cross-encoder re-ranking, RAGAS evaluation
+- **Backend and data:** Python, FastAPI, PostgreSQL + pgvector, WebSockets, Docker, Azure
+- **Frontend:** React
+
+## Reach me
+- LinkedIn: [YOUR LINKEDIN URL]
+- Email: [YOUR EMAIL]
