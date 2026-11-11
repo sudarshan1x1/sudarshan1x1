@@ -20,7 +20,7 @@ Adaptive technical interviews with RAG-based retrieval, rubric-based scoring and
 - **Job recommendation system:** two-tower retrieval in PyTorch, pgvector candidate search and LightGBM re-ranking, with a Streamlit demo.
 
 ## Publication
-- [Social Distancing Monitoring For Real-Time Deep Learning Framework], *[Singapore]*, Springer, [2023]. Computer vision. [https://doi.org/10.1007/978-981-99-7633-1_5]
+- [Social Distancing Monitoring For Real-Time Deep Learning Framework], *[Singapore]*, Springer, [2023]. Computer vision. [[https://doi.org/10.1007/978-981-99-7633-1_5](https://link.springer.com/chapter/10.1007/978-981-99-7633-1_5)]
 
 ## Stack
 - **ML and LLMs:** PyTorch, Hugging Face Transformers, vLLM, Sentence-Transformers, QLoRA fine-tuning, RAG, hybrid vector search, cross-encoder re-ranking, RAGAS evaluation
